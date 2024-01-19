@@ -29,6 +29,7 @@ Receita Bruta (FB)
 = Resultado antes IRPJ CSLL
 - Provisões IRPJ E CSLL
 = Resultado Líquido
+- Pro-labore
 
 Métricas para estruturação e automação de DRE
 	Definir tarefas para cada setor individual registrar as próprias métricas
@@ -63,4 +64,3 @@ O papel do administrador
 	Executar o plano
 
 	Manter dinheiro em caixa
-
