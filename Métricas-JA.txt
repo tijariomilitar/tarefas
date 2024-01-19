@@ -1,0 +1,66 @@
+Métricas Comerciais
+1 - Custo de aquisição de clientes POR CANAL
+	custo total de aquisição de clientes / total de clientes
+		R$200,00 / 2 = R$100,00 de custo por cliente
+
+2 - Retorno sobre o investimento
+	(Total de receita dos clientes * taxa de lucro) - custo de aquisição de cliente
+		R$4997,18 * 0,1 = R$499,71 - R$100,00 = R$399,71
+
+DRE - Mapa e relatório
+
+Receita Bruta (FB)
++ Comercial
+		Vendas
++ E-commerce
+		Vendas
+
+- Deduções
+		Impostos
+		Devoluções
+		Abatimentos
+= Receita Líquida
+- CPV
+= Lucro Líquido
+- Despesas Comerciais
+- Despesas Administrativas
+- Despesas Financeiras
++ Receitas Financeiras
+= Resultado antes IRPJ CSLL
+- Provisões IRPJ E CSLL
+= Resultado Líquido
+
+Métricas para estruturação e automação de DRE
+	Definir tarefas para cada setor individual registrar as próprias métricas
+	Registro diário em Entradas
+
+	Receita Bruta
+		E-commerce > Faturamento
+			Registro do faturamento diário do dia anterior (Receita Bruta) - Pedro
+
+		Comercial > Faturamento
+			Registro do faturamento diário do dia anterior (Receita Bruta) - Chris
+
+	Deduções
+		E-commerce > Devolução
+		Registro de devoluções diário do dia anterior (Deduções > Devoluções) - Janaína
+		Comercial > Devolução
+		Registro de devoluções diário do dia anterior (Deduções > Devoluções) - Janaína
+
+O papel do administrador 
+	Criar estratégia
+		Definir as metas baseadas nas métricas
+		Diversificação sem aumento da complexidade da operação.
+		Foco em Ecommerce - Uma conta com um nome associado a uma loja de vendas gerais (Que tenha produtos de A a Z)
+		Porém inicialmente expandir apenas em produtos com a mesma linha de produção ou compra de outra fábrica com boa margem de lucro. (20%)
+
+	Montar o time
+		Encontrar pessoas auto motivadas
+			Foco em disciplina e não motivação.
+			Constância a longo prazo pelos próprios motivos.
+			Definição dos processos executados por cada pessoa.
+
+	Executar o plano
+
+	Manter dinheiro em caixa
+

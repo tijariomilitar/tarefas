@@ -1,0 +1,82 @@
+Hoje 10% Carteira ativa
+
+Comissionamento de vendas
+	Pontuação base
+		Valor de venda / 1000 = Pontos ganhos na venda
+
+		R$1.000 / 1000 = 1 Ponto
+
+	Impulsionadores
+		Método de pagamento
+			Antecipado = 10x
+			50 / 50 = 9x
+			Boleto a vista = 8x
+			Cartão de crédito = 5x
+			Boleto parcelado = 1x
+
+		Taxa de conversão da carteira (clientes * 100 / Total de clientes)
+			até 20% = 1x
+			+20% e -30% = 2x
+			+30% = 4x
+
+		Churn da carteira (a partir de 6 meses)
+			até 1% = 10x
+			+1% e -2% = 8x
+			+2% e -3% = 5x
+			+4% e -5% = 2x
+			+5% = 1x
+
+	Cálculo de comissão
+	#Cód_venda -   Valor   - Método - Pontos
+	   #0001   - R$1000,00 - Ant 10 = 10P
+	   #0002   - R$1000,00 - CC   5 = 5P
+	   #0003   - R$1000,00 - 5/5  9 = 9P
+	   #0004   - R$1000,00 - Ant 10 = 10P
+	   																34P
+
+  #Cód_venda -   Valor   - Método - Pontos
+	   #0001   - R$3000,00 - Bol 1  = 3P
+	   #0002   - R$2000,00 - Bol 1  = 2P
+	   #0003   - R$5000,00 - Bol 1  = 5P
+	   #0004   - R$4000,00 - Bol 1  = 4P
+	                                  14P
+	
+	Pontuação de descontos
+		1 Cliente 4m = -20P
+		1 Cliente 5m = -20P
+		1 Cliente 6m = -20P
+
+	Premiação
+		(-100P)     = 1P = R$1,00 = 100,00
+		(100P-200P) = 1P = R$2,00 = 400,00
+		(100P-300P) = 1P = R$3,00 = 900,00 
+		(100P-400P) = 1P = R$4,00 = 1600,00
+		(+500)      = 1P = R$5,00 = R$2500,00
+
+Gerente comercial
+
+1 - Acompanhamento de relatórios
+	faturamento, 
+		Faturamento bruto
+
+	vendedores,
+		Faturamento individual
+
+	vendas, 
+	 	Sac - Acompanhar até finalizar o problema
+
+	clientes
+		Sem vendas a 4, 5 e 6 meses (Criar um relatório)
+			1 - Motivo pelo qual não compra
+
+			2 - Previsão de nova compra
+					Entrar em contato na data.
+
+			3 - Produtos de interesse na nova compra
+					Colocar promoção semanal conforme possível
+
+		Nutrição
+			Envia email segunda e quinta da promoção
+
+			Contato diário com as pessoas que compraram no dia (10/**)
+				WhatsApp ou ligação

@@ -1,0 +1,45 @@
+1 - Mercado Livre
+	Anúncios
+		Qualidade dos anúncios Manter em 100%
+		Vídeos institucionais
+		Qualidade de compra dos anúncios Manter em 100%
+		Repor anúncios excluídos
+		Reposição de estoque
+
+	Estoque Full
+		Reposição de estoque (Não deixar zerar)
+		Limite de estoque	(Limite de valor por faturamento)
+
+	Reputação
+		Tempo de resposta para perguntas
+		Resolver problemas que geram reclamações e cancelamentos
+		Controlar prazos de postagem (coleta e despacho)
+
+	Faturamento
+		Metas mensais e trimestrais
+
+	Ads
+		Metas de investimento por faturamento
+
+2 - Amazon
+	Anúncios
+		Completar anúncios
+
+3 - Shopee
+	Anúncios
+		Completar anúncios
+
+	Reputação
+
+	Ads
+
+4 - Outras plataformas
+	Anúncios 
+		Completar anúncios
+
+5 - Gestão de equipe
+	Coleta de pedidos
+		Controle dos prazos de coleta dos pedidos (Enviar no prazo ideal para despacho)
+
+	Erros
+		Instrução e acompanhamento de erros de coleta que possam gerar cancelamentos ou reclamações

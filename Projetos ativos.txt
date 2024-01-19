@@ -1,0 +1,128 @@
+O primeiro ponto para se conseguir evoluir uma estrutura empresarial
+é tentar entender exatamente qual problema você está tentando resolver 
+e quais são as ferramentas necessárias.
+
+Não necessáriamente querer resolver um problema significa que você será
+capaz, talvez você não tenha as ferramentas ou conhecimento, então o principal ponto nessa
+parte é identificar exatamente o que é necessário e descobrir o que é preciso
+e se é possível.
+
+Então partindo desse ponto devemos entender onde cada projeto
+se encaixa e decidir quais são os
+
+Problemas e projetos principais e o caminho para resolvê-los
+
+1 - Breakeven - Chegar ao ponto de equilíbrio
+
+	Encontrar e alcançar o balanço financeiro em 0.
+
+	1 - Descobrir valor mínimo de faturamento:
+		Custo dos produtos
+			Matéria-prima
+			Mão de obra
+
+		Custo total da estrutura com a operação atual
+			Estrutura fábrica
+
+			Estrutura Escritório
+			Mão de obra
+
+			Custos financeiros
+
+	2 - Chegar ao faturamento desejado
+		E-commerce
+			Mercado Livre
+				Anúncios
+					Atualizar Plates Velcro para Engate e reduzir valor (Refazer foto)
+					Criação de vídeos simples institucionais dos produtos girando e manuseio. (Começar por Plate engate)
+					Atualizar descrição com lista de perguntas para cada produto, MIA Predize
+
+				Ads
+					Estruturar campanhas por progressão
+					Aumentar gradualmente até 20%/10%
+					Gravar aulas do básico
+
+			Shopee
+
+			Site
+				Landing pages com cupom de desconto para produtos
+					Landing Page - Plate Carrier - PLATE30
+					Landing Page - Colete tático Militar (JA3) TATICO30
+					Landing Page - Colete Policia militar (Close) POLICIA30
+					Landing Page - Chest Rig - CHEST30
+
+			Amazon
+				Completar portifólio
+				Estudar AmazonAds
+
+			Outras plataformas
+				Entender melhor			
+
+		Comercial
+			Prospeção ativa
+				Aumentar o volume de leads através de Landing pages
+					Otimizar campanhas e acompanhar o ROI.
+					Aumentar valor utilizado no Google Ads.
+					Criar campanhas Dark posts no Instagram para revendedores.
+
+				Desenvolver fluxo de conexão para cobrir todos os gatilhos e objeções
+					Playbook
+
+				Desenvolver apresentação e pitch de vendas
+					Montar questionário e caminho para venda.
+
+				Montagem de carteira de vendedores (atualizar ERP)
+					Apenas a Chris inicialmente para simulando que os clientes são a carteira dela.
+					Clientes ativos dentro de 5 meses. 
+
+				Estimular o foco dos vendedores
+					Tão importante quanto conseguir novos clientes é manter os clientes antigos.
+
+		Desenvolvimento de novos produtos
+			Desenvolvimento do produto
+			Descrição dos processos de produção
+			Cadastro da ficha técnica
+			Produção teste para homologação
+			Inclusão no portifólio
+
+2 - Automação - Tornar a operação independente
+	
+	Ter todo o ciclo de processos fundamentais controlados e auditáveis.
+
+	1 - Estruturar e relacionar todos os processos por setor
+
+	2 - Estruturas de engenharia de software
+		1 - lib para renderização (html/js/css)
+
+		2 - lib para ações de comando client/server (js)
+
+		3 - lib para comunicação com banco de dados (mysql)
+			Leitura ao banco de dados atualizada para 'objetos desestruturados'
+				Resolve a necessidade de atualização do código ao incluir novas funcionalidades no 'query builder'
+
+			Resolvido brecha de sql injection
+				Inserção de aspas.
+				Utilização de prepared statements e placeholders
+			
+			Inclusão de left joins
+				Resolve a limitação em unir resultados nulos.
+					'Matéria-prima' no pedido de um fornecedor que não fornece o produto
+
+	3 - Desenvolvimento de Software
+		ERP
+			Financeiro
+				Modelos e controladores reescritos (objetos desestruturados)
+
+				Arquitetura reestruturada (unificação de despesas e saídas)
+					As "despesas" foram removídas e a partir de agora todo
+					todo o ciclo de processos passa a ser através das "saídas"
+
+				Criação de interface para comunição com outras ferramentas (criação de despesas)
+					Interface para criação de novas saídas em 
+
+			Logística
+				Modelos e controladores reescritos (objetos desestruturados)
+
+				Desenvolvimento do ciclo de compras para matéria-prima
+		
+		Site
