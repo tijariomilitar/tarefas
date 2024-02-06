@@ -80,6 +80,10 @@ Problemas e projetos principais e o caminho para resolvê-los
 
 		Desenvolvimento de novos produtos
 			Desenvolvimento do produto
+				Ficha técnica
+				Processos de produção (com Tempo)
+				Ficha de corte
+
 			Descrição dos processos de produção
 			Cadastro da ficha técnica
 			Produção teste para homologação
